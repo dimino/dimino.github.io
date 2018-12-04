@@ -2,6 +2,7 @@
 layout: post
 title: "testing embedded chess board"
 date: "2018-12-04 01:53:08 -0600"
+category: chess
 ---
 
 {% raw %}
