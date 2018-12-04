@@ -1,11 +1,11 @@
-title: Charlie's Blog
+title: "Charlie's Blog"
 author:
   name: 'Charlie Dimino'
-path: /
+path: 'https://dimi.no'
 url: 'https://dimi.no'
 
 sass:
   sass_dir: css
   style: expanded
 
-permalink: date
+permalink: /:title.html
