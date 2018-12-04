@@ -6,6 +6,6 @@ url: 'https://dimi.no'
 
 sass:
   sass_dir: css
-  style: expanded
+  style:    expanded
 
 permalink: /:title.html
