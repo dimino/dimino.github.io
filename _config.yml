@@ -1,5 +1,11 @@
-title: dimi.no
+title: Charlie's Blog
+author:
+  name: 'Charlie Dimino'
+path: /
+url: 'https://dimi.no'
 
-production_url: https://dimi.no
+sass:
+  sass_dir: css
+  style: expanded
 
-theme: jekyll-theme-hacker
+permalink: date
