@@ -9,3 +9,4 @@ sass:
   style:    expanded
 
 permalink: /:title.html
+highlighter: rouge
