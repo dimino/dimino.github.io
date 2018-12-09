@@ -18,9 +18,9 @@ Obviously, Magic: The Gathering Arena is Wizards of the Coast's attempt at recla
 
 What's especially great about Arena is that it's essentially a *full* clone of M:tG, so everything we talk about happening in Arena can translate into the tabletop game seamlessly.  The "Standard" format is what's implemented in Arena, so it's a little limiting (not that you notice), but for my experience, all I've ever wanted to play is standard, so I'm satisfied.
 
-The experience, game-to-game is the easiest time I've ever had starting up a game of Magic.  You simply click "Play", select your deck, and you're in the queue to play against someone whose similarly experienced as you.  There's a rating system even for the unranked (I haven't yet gone into the ranked play), but it's not a value that weighs on you or shows up anywhere except at the end of the game.
+The experience, game-to-game is the easiest time I've ever had starting up a game of Magic.  You simply click "Play", select your deck, and you're in the queue to play against someone whose similarly experienced as you.  There's a rating system even for the unrated queue (I haven't yet gone into ranked play), but the rating doesn't weigh on you or show up anywhere except at the end of the game in the form of an animation you can skip.
 
-The games themselves can be repetitive, as almost everyone is playing the intro decks you get when you first start playing (and as you play, once every few days you can earn an entire new deck by playing a game), and maybe I'm terrible, but these intro decks make anything you come up with seem pretty bad.  The limited cards you start out with, combined with the good coordination the intro decks have set a high bar for coming up with a way of consistently beating these intro decks.
+The games themselves can be repetitive, as almost everyone is playing [the intro decks](http://magicarena.wikia.com/wiki/Starting_Decks) you get when you first start playing (and as you play, once every few days you can earn an entire new deck by playing a game), and maybe I'm terrible, but these intro decks make anything you come up with seem pretty bad.  The limited cards you start out with, combined with the good coordination the intro decks have set a high bar for coming up with a way of consistently beating these intro decks.
 
 I opted to spend some money and grow my collection enough to let me build a deck that wasn't one of the intro decks, however the first deck I came up with had trouble getting off the ground, and even when it did, the default decks were still coming out ahead more often than felt reasonable.
 
@@ -42,9 +42,9 @@ Here's my first decklist (also available on [mtgarena.pro](https://mtgarena.pro/
 * 2 <span class="mtgtooltip">Goreclaw, Terror of Qal Sisma</span>
 * 4 <span class="mtgtooltip">Titanic Growth</span>
 
-This deck has a number of problems, but most of all, the "payoff" for getting everything out and rolling was fairly limited.  You'd get out Ghalta, Primal Hunger on turn 4 after playing Gigantosaurus, but then two removes later, you're sitting with no creatures and no real endgame.  There were some fun games, but against the default decks, this one wasn't consistent enough, and even when it got rolling, it couldn't always keep up.  Current standard is apparently too clever to beat with just big creatures.
+This deck has a number of problems, but most of all, the "payoff" for getting everything out and rolling was fairly limited.  You'd get out <span class="mtgtooltip">Ghalta, Primal Hunger</span> on turn 4 after playing <span class="mtgtooltip">Gigantosaurus</span> turn 3 (and acing the curve by getting <span class="mtgtooltip">Llanowar Elves</span> turn 1 and maybe <span class="mtgtooltip">Drover of the Mighty</span> turn 2), but then two removes later, you're sitting with no creatures and probably ~10ish life.  There were some fun games, but against the default decks, this one wasn't consistent enough.  Current standard is apparently too clever to beat with just big creatures.
 
-So I went searching.  I was very opposed to playing the default starting decks, but I wasn't above looking for an on-meta deck that had good play in an IRL tournament.  I wanted a deck that may not always win, but had answers to the combos and synergy of the default decks I was seeing all the time.  
+So I went searching.  I was opposed to playing the default starting decks, but I wasn't above looking for an on-meta deck that had good play in an IRL tournament.  I wanted a deck that may not always win, but had answers to the combos and synergy of the default decks I was seeing all the time.  
 
 This is the deck I found, a 2nd place finishing deck at [SCG Classic Las Vegas](https://www.coolstuffinc.com/user_inventory.php?pa=list&subpa=1833) (also available on [mtgarena.pro](https://mtgarena.pro/decks/izzet-drakes-3741/)):
 
@@ -66,7 +66,7 @@ This is the deck I found, a 2nd place finishing deck at [SCG Classic Las Vegas](
 * 4 <span class="mtgtooltip">Radical Idea</span>
 * 1 <span class="mtgtooltip">The Mirari Conjecture</span>
 * 1 <span class="mtgtooltip">Blink of an Eye</span>
-* 4 <span class="mtgtooltip">ormenting Voice</span>
+* 4 <span class="mtgtooltip">Tormenting Voice</span>
 
 With this deck, I'm having a lot more fun.  It's the kind of deck where you need to pay attention to when you have priority, which means you need to learn when and how to get the Arena client's attention to make your instant casts.  At first, I had decent trouble figuring out the Arena client, but after losing a few games to misclicks/not casting at the right time, I'm getting the hang of it.  Hitting control to put the client into "manual mode" helps substantially.
 
