@@ -10,3 +10,5 @@ sass:
 
 permalink: /:title.html
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
